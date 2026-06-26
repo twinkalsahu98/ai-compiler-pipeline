@@ -22,6 +22,13 @@ The pipeline includes:
 
 To understand and simulate the core workflow of AI compiler systems used in:
 
+## ⚠️ Note
+
+The ONNX model file is generated locally using the provided script:
+
+```bash
+python export_onnx.py
+
 - AI SDK platforms  
 - Edge AI applications  
 - Semiconductor and embedded AI systems  
